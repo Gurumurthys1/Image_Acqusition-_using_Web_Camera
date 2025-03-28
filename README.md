@@ -1,5 +1,8 @@
 
-Aim:
+# Image Acquisition using Web Camera
+Name : GURUMURTHY S<BR/>
+Register No : 212223230066
+## Aim:
  
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
